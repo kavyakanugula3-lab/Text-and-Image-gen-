@@ -15,15 +15,15 @@ Gemini is aLarge Language Model developed by google that can:
 * Assist in AI-based applications
 In this project , we use Gemini to generate both text generation and image generation .
 ## Create Gemini API key
-1.go to google AI Studio
-2.Sign in with your Google account
-3.Generate a Gemini API Key 
-4.Copy the API key (do not share it publicly)
+* go to google AI Studio
+* Sign in with your Google account
+* Generate a Gemini API Key 
+* Copy the API key (do not share it publicly)
 ## Setup & Execution 
 steps to run the project
-1.open Google Colab
-2.Create a new Python notebook
-3.upload the PDF file to the colab
+* open Google Colab
+* Create a new Python notebook
+* upload the PDF file to the colab
 Install Required Libraries:
 ```pip install google-generativeai```
 ```pip install PILLOW```
@@ -53,9 +53,9 @@ Explain Artificial Intelligence in simple words
 * A meaningful and context-aware text response is generated
  This is the core functionality of the project.
 ## Image Generation Workflow
-1.Extract PDF text is sent to Gemini LLM
-2.Gemini analyzes the content
-3.A meaningful text summary or rseponse is generated
+* Extract PDF text is sent to Gemini LLM
+* Gemini analyzes the content
+* A meaningful text summary or rseponse is generated
 ## Display Output
 The generated text response is printed for the user to read
 example:
